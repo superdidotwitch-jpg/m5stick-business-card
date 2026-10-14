@@ -2,6 +2,8 @@
 
 A pocket digital business card running on an M5Stack M5StickS3. Switch it on and it loops an Instagram QR code and a flying-kick animation. Buttons and a shake bring up QR codes for Telegram, LinkedIn and a website, so people can scan whichever one they want.
 
+![The card running on the M5StickS3](photos/card-kick-loop.gif)
+
 All links and names in the code are placeholders. Put your own in before uploading (see "Make it yours" below).
 
 ## What it does
@@ -66,7 +68,7 @@ On this stick the upload often fails with "port not found" because the stick is 
 
 ```
 firmware/business_card/business_card.ino   the sketch
-photos/                                    pictures of the card
+photos/                                    the card running and the original drawing
 ```
 
 ## History
